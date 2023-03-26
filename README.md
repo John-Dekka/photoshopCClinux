@@ -47,7 +47,7 @@ the installer scripts use a virtual drive of wine and makes a new `winprefix` fo
 
 first of all, you need to clone the repository with this command:
 ```bash
-git clone https://github.com/Gictorbit/photoshopCClinux.git
+git clone https://github.com/John-Dekka/photoshopCClinux.git
 cd photoshopCClinux
 ```
 then you can easily run `setup.sh` script to install photoshop cc on your Linux distro
@@ -134,15 +134,3 @@ to uninstall photoshop you can use the uninstaller script with commands below
 chmod +x uninstaller.sh
 ./uninstaller.sh
 ```
-
-
-## :bookmark: License
-![GitHub](https://img.shields.io/github/license/Gictorbit/photoshopCClinux?style=for-the-badge)
-
----
-<a href="https://poshtiban.com">
-<img src="images/poshtibancom.png" width="25%"> 
-</a>
-<a href="https://github.com/Gictorbit/illustratorCClinux">
-<img src="https://github.com/Gictorbit/illustratorCClinux/raw/master/images/AiIcon.png" width="9%">
-</a>
